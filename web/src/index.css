@@ -9538,6 +9538,13 @@ img {
   display: flex;
 }
 
+@media (max-width: 768px) {
+  .navbar-wrapper {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
 .navbar-brand {
   flex: 0 auto;
   display: flex;
@@ -9657,6 +9664,12 @@ img {
 
 .image-3 {
   display: inline-flex;
+}
+
+@media (max-width: 768px) {
+  .image-3 {
+    width: 70px;
+  }
 }
 
 .text-block {
