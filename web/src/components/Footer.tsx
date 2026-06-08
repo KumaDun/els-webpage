@@ -20,7 +20,9 @@ export default function Footer() {
                       ></path>
                     </svg>
                   </div>
-                  <div className="paragraph_xlarge margin-bottom_none text_all-caps">
+                  <div className="paragraph_xlarge margin-bottom_none text_all-caps" style = {
+                      {color: 'rgba(255, 255, 255, 0.85)'}
+                  }>
                     ELS Wealth
                   </div>
                 </a>
