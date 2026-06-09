@@ -1,11 +1,11 @@
-import canadaLifeLogo from '../assets/partner-canada-life.png'
-import manulifeLogo from '../assets/partner-manulife.png'
-import sunLifeLogo from '../assets/partner-sun-life.svg'
-import iaLogo from '../assets/partner-ia.svg'
-import equitableLifeLogo from '../assets/partner-equitable-life.png'
-import forestersLogo from '../assets/partner-foresters.svg'
-import equitableBankLogo from '../assets/partner-equitable-bank.svg'
-import tugoLogo from '../assets/partner-tugo.png'
+import canadaLifeLogo from '@/assets/partner-canada-life.png'
+import manulifeLogo from '@/assets/partner-manulife.png'
+import sunLifeLogo from '@/assets/partner-sun-life.svg'
+import iaLogo from '@/assets/partner-ia.svg'
+import equitableLifeLogo from '@/assets/partner-equitable-life.png'
+import forestersLogo from '@/assets/partner-foresters.svg'
+import equitableBankLogo from '@/assets/partner-equitable-bank.svg'
+import tugoLogo from '@/assets/partner-tugo.png'
 
 const partnersList = [
   { name: 'Canada Life', src: canadaLifeLogo },

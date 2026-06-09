@@ -1,5 +1,5 @@
-import alexAvatar from '../assets/client-alex.avif'
-import morganAvatar from '../assets/client-morgan.avif'
+import alexAvatar from '@/assets/client-alex.avif'
+import morganAvatar from '@/assets/client-morgan.avif'
 
 const testimonialsList = [
   {

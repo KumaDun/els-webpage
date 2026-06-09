@@ -1,7 +1,8 @@
-import ossioPhoto from '../assets/team-ossio.jpg'
-import henryPhoto from '../assets/team-henry.jpeg'
-import yuenyuenPhoto from '../assets/team-yuenyuen.jpeg'
-import willPhoto from '../assets/team-will.jpeg'
+import ossioPhoto from '@/assets/team-ossio.jpg'
+import henryPhoto from '@/assets/team-henry.jpeg'
+import yuenyuenPhoto from '@/assets/team-yuenyuen.jpeg'
+import willPhoto from '@/assets/team-will.jpeg'
+import jadenPhoto from '@/assets/team-jaden.jpg'
 
 const teamList = [
   {
@@ -29,6 +30,13 @@ const teamList = [
     name: 'Yuen Yuen Chang',
     role: 'Senior Financial Advisor',
     src: yuenyuenPhoto,
+    divClass: 'inline-div-1',
+    imgClass: 'image_cover',
+  },
+  {
+    name: 'Jaden Luo',
+    role: 'Partner Engineer',
+    src: jadenPhoto,
     divClass: 'inline-div-1',
     imgClass: 'image_cover',
   },

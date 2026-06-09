@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
-import serviceWealthImg from '../assets/service-wealth.avif'
-import serviceLoanImg from '../assets/service-loan.avif'
-import serviceTaxImg from '../assets/service-tax.avif'
+import serviceWealthImg from '@/assets/service-wealth.avif'
+import serviceLoanImg from '@/assets/service-loan.avif'
+import serviceTaxImg from '@/assets/service-tax.avif'
 
 const slides = [
   {
